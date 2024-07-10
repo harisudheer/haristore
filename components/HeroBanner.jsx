@@ -11,7 +11,7 @@ const HeroBanner = ({ heroBanner, slug}) => {
         <h1>{heroBanner.largeText1}</h1>
           <img
             src={urlFor(heroBanner.image)}
-            alt="headphones"
+            alt="kfc"
             className="hero-banner-image"
           />        
         <div className="hero-banner-button">
